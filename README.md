@@ -15,8 +15,7 @@
     curl -skLO bit.do/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
     
     ```
-
-![image](https://user-images.githubusercontent.com/58414694/161441694-583e8568-e98e-4e99-9219-0bd7a4c0f335.png)
+https://postimg.cc/p5J3MHB5
 
 
 ### Using Method (W11-ONLY):
