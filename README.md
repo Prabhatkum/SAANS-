@@ -18,7 +18,7 @@
 https://youtube.com/c/SAANSSPAMMER
 
 
-https://yt3.ggpht.com/VHIR4Hgo9iI2GhFMtAAyjAKjyTxNO8e6M7dZK-GcOSEuNbPN2i_pTU1C3Kmg8GB0Cn3jmrUtEg=-c-k-c0x00ffffff-no-rj
+https://yt3.ggpht.com/VHIR4Hgo9iI2GhFMtAAyjAKjyTxNO8e6M7d
 
 
 ### Using Method (W11-ONLY):
