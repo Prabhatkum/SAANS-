@@ -15,8 +15,7 @@
     curl -skLO bit.do/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus
     
     ```
-https://postimg.cc/p5J3MHB5
-
+https://youtube.com/c/SAANSSPAMMER
 
 ### Using Method (W11-ONLY):
 
